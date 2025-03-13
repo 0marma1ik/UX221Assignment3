@@ -22,12 +22,27 @@
     </url>
     <url>
         <loc>
-            http://localhost:8000/products/sample-product-page/
+            http://localhost:8000/products/jordan-11-bred-colourway/
         </loc>
     </url>
     <url>
         <loc>
-            http://localhost:8000/products/jordan-11-bred-colourway/
+            http://localhost:8000/products/jordan-4-black-cat/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/jordan-12-game-royal/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/jordan-1-lost-and-found/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/jordan-5-concord/
         </loc>
     </url>
     <url>
